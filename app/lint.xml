@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<lint>
-    <issue id="CutPasteId">
-        <ignore path="src/com/example/aliyunmedia/yes/ok/MainActivity.java" />
-    </issue>
-    <issue id="ShowToast" severity="ignore" />
-</lint>
