@@ -41,7 +41,7 @@
         android:id="@+id/text"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="demo" />
+        android:text="Test" />
 
     <TextView
         android:id="@+id/detail"
