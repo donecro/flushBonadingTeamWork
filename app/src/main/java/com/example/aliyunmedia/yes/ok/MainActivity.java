@@ -12,7 +12,7 @@ import com.alibaba.sdk.android.oss.internal.OSSAsyncTask;
 import com.alibaba.sdk.android.oss.model.PutObjectRequest;
 import com.alibaba.sdk.android.oss.model.PutObjectResult;
 
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.*;
 import android.annotation.TargetApi;
 import android.app.ProgressDialog;
 import android.content.ContentResolver;
@@ -33,7 +33,7 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 @TargetApi(Build.VERSION_CODES.HONEYCOMB)
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends AppCompatActivity {
 	private TextView tv,detail;
 	private Button camerabutton,playbutton,selectvideo;
 	private ProgressBar pb;

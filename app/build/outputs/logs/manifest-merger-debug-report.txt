@@ -1,79 +1,168 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:2:1-31:12
+ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1a17ed1a0676d923d227f08054bf8fab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/94d45ffb5d06425c04541ebaa17dcd0b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a593d804ff8a9589fe715ff73b2516da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/cbfe1ae25ca1dbe1dbdd8602de39e287/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/930f7b5a5daf75ff460172ea48fbf92f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e19cdf9cecc11e7a2f8b322ab07617e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1d1baf5e43f4bdf61d0e62d421cf32d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/77537a015cacc692e68c9a453685e8b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d296d56bda10ac8edc42d3f0eed5e8bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/27ae1bffaaa103d17649fa81688f6876/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1e90bfc37e9ac1d2244915428cb3e361/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/60810d384ba443e9c6f8a3dba2585748/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/93b4477f5a468d1ec29a787bbe1e3698/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/99178265a90b36d9249eca9a6dbe7c98/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/fffa40b735db1f81bf80eb01491441c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3c6cdddce57323f0da012ec778adef03/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2d24e3af755003424d9cd2ce9e775699/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c52cfb0806605427de666d0a92bbbb57/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6876c4fc4c3c5336c4027f877c675a08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/422bf04a480c61a3ff9bca5c7f66d625/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/45f94b6d857c3ca41946d04915e3a0f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0116ab204d72968ac4dca79c7fe003b8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9f2a98a53aa8d2105f3e4b9bf7353258/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e91e724c36fb3bc59320d49473431b34/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5a814e8bd026acd462c5e4eaf93c13f2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/830db0dc95666af293523d46e495a3a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0a871ccf87bae42566483a0ea506bd10/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:2:1-31:12
 	package
-		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:3:5-45
-		INJECTED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml
-		INJECTED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml
+		ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml
-		INJECTED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml
-	android:versionCode
-		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml
-		INJECTED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml
+		ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml
 uses-sdk
-ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.4.0] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1a17ed1a0676d923d227f08054bf8fab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1a17ed1a0676d923d227f08054bf8fab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/94d45ffb5d06425c04541ebaa17dcd0b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/94d45ffb5d06425c04541ebaa17dcd0b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a593d804ff8a9589fe715ff73b2516da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a593d804ff8a9589fe715ff73b2516da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/cbfe1ae25ca1dbe1dbdd8602de39e287/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/cbfe1ae25ca1dbe1dbdd8602de39e287/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/930f7b5a5daf75ff460172ea48fbf92f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/930f7b5a5daf75ff460172ea48fbf92f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e19cdf9cecc11e7a2f8b322ab07617e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e19cdf9cecc11e7a2f8b322ab07617e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1d1baf5e43f4bdf61d0e62d421cf32d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1d1baf5e43f4bdf61d0e62d421cf32d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/77537a015cacc692e68c9a453685e8b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/77537a015cacc692e68c9a453685e8b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d296d56bda10ac8edc42d3f0eed5e8bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d296d56bda10ac8edc42d3f0eed5e8bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/27ae1bffaaa103d17649fa81688f6876/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/27ae1bffaaa103d17649fa81688f6876/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1e90bfc37e9ac1d2244915428cb3e361/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1e90bfc37e9ac1d2244915428cb3e361/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/60810d384ba443e9c6f8a3dba2585748/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/60810d384ba443e9c6f8a3dba2585748/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/93b4477f5a468d1ec29a787bbe1e3698/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/93b4477f5a468d1ec29a787bbe1e3698/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/99178265a90b36d9249eca9a6dbe7c98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/99178265a90b36d9249eca9a6dbe7c98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/fffa40b735db1f81bf80eb01491441c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/fffa40b735db1f81bf80eb01491441c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3c6cdddce57323f0da012ec778adef03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3c6cdddce57323f0da012ec778adef03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2d24e3af755003424d9cd2ce9e775699/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2d24e3af755003424d9cd2ce9e775699/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c52cfb0806605427de666d0a92bbbb57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c52cfb0806605427de666d0a92bbbb57/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6876c4fc4c3c5336c4027f877c675a08/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6876c4fc4c3c5336c4027f877c675a08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/422bf04a480c61a3ff9bca5c7f66d625/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/422bf04a480c61a3ff9bca5c7f66d625/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/45f94b6d857c3ca41946d04915e3a0f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/45f94b6d857c3ca41946d04915e3a0f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0116ab204d72968ac4dca79c7fe003b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0116ab204d72968ac4dca79c7fe003b8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9f2a98a53aa8d2105f3e4b9bf7353258/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9f2a98a53aa8d2105f3e4b9bf7353258/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e91e724c36fb3bc59320d49473431b34/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e91e724c36fb3bc59320d49473431b34/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5a814e8bd026acd462c5e4eaf93c13f2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5a814e8bd026acd462c5e4eaf93c13f2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/830db0dc95666af293523d46e495a3a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/830db0dc95666af293523d46e495a3a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0a871ccf87bae42566483a0ea506bd10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/0a871ccf87bae42566483a0ea506bd10/AndroidManifest.xml:20:5-44
+INJECTED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
-		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:9:9-38
-		INJECTED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml
-		INJECTED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml
+		ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:8:9-34
-		INJECTED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml
-		INJECTED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml
+		ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:10:1-79
+ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:10:1-79
 	android:name
-		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:10:18-60
+		ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:10:18-60
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:11:1-91
+ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:11:1-91
 	android:name
-		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:11:18-72
+		ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:11:18-72
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:12:1-88
+ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:12:1-88
 	android:name
-		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:12:18-69
+		ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:12:18-69
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:13:1-93
+ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:13:1-93
 	android:name
-		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:13:18-74
+		ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:13:18-74
 application
-ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:14:5-29:19
-MERGED from [com.android.support:appcompat-v7:23.4.0] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:14:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/94d45ffb5d06425c04541ebaa17dcd0b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/94d45ffb5d06425c04541ebaa17dcd0b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3c6cdddce57323f0da012ec778adef03/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3c6cdddce57323f0da012ec778adef03/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2d24e3af755003424d9cd2ce9e775699/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2d24e3af755003424d9cd2ce9e775699/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/chenxuzhong/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3c6cdddce57323f0da012ec778adef03/AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:17:9-41
-	android:allowBackup
-		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:17:9-41
 	android:icon
-		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:16:9-45
+		ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:16:9-45
+	android:allowBackup
+		ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:15:9-35
 	android:theme
-		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:18:9-40
+		ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:18:9-40
 activity#com.example.aliyunmedia.yes.ok.MainActivity
-ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:19:9-28:20
+ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:19:9-28:20
 	android:label
-		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:21:13-36
+		ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:21:13-36
 	android:name
-		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:20:13-41
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:23:13-27:29
+		ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:24:17-69
+ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:24:25-66
+		ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:26:17-77
+ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:26:27-74
+		ADDED from /Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/AndroidManifest.xml:26:27-74

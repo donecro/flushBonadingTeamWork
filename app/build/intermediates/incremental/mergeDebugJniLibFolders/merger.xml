@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="F:\xiaozuzuoye\miemiemie\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="F:\xiaozuzuoye\miemiemie\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/chenxuzhong/2018-2019-1/嵌入式/Android/flushBonadingTeamWork/app/src/debug/jniLibs"/></dataSet></merger>
