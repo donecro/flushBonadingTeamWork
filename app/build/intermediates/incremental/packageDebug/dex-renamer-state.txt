@@ -1,4 +1,4 @@
-#Fri Oct 05 21:34:07 CST 2018
+#Thu Nov 01 12:55:48 CST 2018
 base.0=F\:\\xiaozuzuoye\\miemiemie\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=F\:\\xiaozuzuoye\\miemiemie\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -21,12 +21,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="F:\xiaozuzuoye\miemiemie\app\libs\aliyun-oss-sdk-android-2.2.0.jar"
+        jar="C:\Users\打好boss\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.14.0\102d7be47241d781ef95f1581d414b0943053130\okio-1.14.0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="b74ca9a118d13d7975c5101d9d212b2c1316f9e2">
-        <dex dex="F:\xiaozuzuoye\miemiemie\app\build\intermediates\pre-dexed\debug\aliyun-oss-sdk-android-2.2.0_06391f9bdf4ce6ff5a05e143ccf0eb8175617ece.jar" />
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="F:\xiaozuzuoye\miemiemie\app\build\intermediates\pre-dexed\debug\okio-1.14.0_fed2a1f19602c41dee040394f6f268010190f6a8.jar" />
     </item>
     <item
         is-multidex="false"
@@ -48,15 +48,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="F:\xiaozuzuoye\miemiemie\app\libs\okio-1.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="F:\xiaozuzuoye\miemiemie\app\build\intermediates\pre-dexed\debug\okio-1.6.0_cc2839a4915baf43ab33fa35b7bd3c16bde93019.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -66,12 +57,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="F:\xiaozuzuoye\miemiemie\app\libs\okhttp-3.2.0.jar"
+        jar="C:\Users\打好boss\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.11.0\75966e05a49046ca2ae734e5626f28837a8d1e82\okhttp-3.11.0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
-        <dex dex="F:\xiaozuzuoye\miemiemie\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_1d1e2c77a8e186cab6efa890006cba0305e1d521.jar" />
+        sha1="75966e05a49046ca2ae734e5626f28837a8d1e82">
+        <dex dex="F:\xiaozuzuoye\miemiemie\app\build\intermediates\pre-dexed\debug\okhttp-3.11.0_60c60b11972a40181d3e85db4e466b38d56fcbdf.jar" />
     </item>
     <item
         is-multidex="false"
@@ -81,6 +72,15 @@
         revision="24.0.2"
         sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
         <dex dex="F:\xiaozuzuoye\miemiemie\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_b996baab22973ed403366f6cf4d67b0eb54a5f82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.aliyun.dpa\oss-android-sdk\2.9.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dd768f078ee3a4e5098807d840cf4ab96c3816ef">
+        <dex dex="F:\xiaozuzuoye\miemiemie\app\build\intermediates\pre-dexed\debug\com.aliyun.dpa-oss-android-sdk-2.9.1_b47d20ce4825393cd07b18305e14699c218be2f8.jar" />
     </item>
 
 </items>

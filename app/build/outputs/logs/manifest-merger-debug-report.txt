@@ -21,6 +21,7 @@ MERGED from [com.android.support:appcompat-v7:23.4.0] F:\xiaozuzuoye\miemiemie\a
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
 MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
 MERGED from [com.android.support:support-v4:23.4.0] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.9.1] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.aliyun.dpa\oss-android-sdk\2.9.1\AndroidManifest.xml:7:5-9:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:23.4.0] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
@@ -33,18 +34,22 @@ MERGED from [com.android.support:support-v4:23.4.0] F:\xiaozuzuoye\miemiemie\app
 		INJECTED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:10:1-79
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.9.1] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.aliyun.dpa\oss-android-sdk\2.9.1\AndroidManifest.xml:11:5-67
 	android:name
 		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:10:18-60
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:11:1-91
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.9.1] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.aliyun.dpa\oss-android-sdk\2.9.1\AndroidManifest.xml:12:5-79
 	android:name
 		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:11:18-72
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:12:1-88
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.9.1] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.aliyun.dpa\oss-android-sdk\2.9.1\AndroidManifest.xml:13:5-76
 	android:name
 		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:12:18-69
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:13:1-93
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.9.1] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.aliyun.dpa\oss-android-sdk\2.9.1\AndroidManifest.xml:14:5-81
 	android:name
 		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:13:18-74
 application
@@ -53,6 +58,7 @@ MERGED from [com.android.support:appcompat-v7:23.4.0] F:\xiaozuzuoye\miemiemie\a
 MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-v4:23.4.0] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.9.1] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.aliyun.dpa\oss-android-sdk\2.9.1\AndroidManifest.xml:17:5-20:19
 	android:label
 		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:17:9-41
 	android:allowBackup
@@ -77,3 +83,7 @@ category#android.intent.category.LAUNCHER
 ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
 		ADDED from F:\xiaozuzuoye\miemiemie\app\src\main\AndroidManifest.xml:26:27-74
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [com.aliyun.dpa:oss-android-sdk:2.9.1] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.aliyun.dpa\oss-android-sdk\2.9.1\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from [com.aliyun.dpa:oss-android-sdk:2.9.1] F:\xiaozuzuoye\miemiemie\app\build\intermediates\exploded-aar\com.aliyun.dpa\oss-android-sdk\2.9.1\AndroidManifest.xml:15:22-73
